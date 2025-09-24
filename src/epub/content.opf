@@ -81,14 +81,6 @@
 		of Fate; The Recessional; A Matter of Sentiment; The Secret Sin of Septimus Brope;
 		"Ministers of Grace"; The Remoulding of Groby Lington -->
 		<dc:source>https://archive.org/details/bwb_S0-AHX-354</dc:source>
-		<!-- Toys of Peace; Louise; Tea; Crispina Umberleigh; Wolves of Cernogratz; Louis;
-		The Guests; The Penance; The Phantom Luncheon; A Bread and Butter Miss; Bertie's Christmas
-		Eve; Forewarned; The Interlopers; Quail Seed; Canossa; The Thread; Excepting Mrs. Pentherby;
-		Mark; The Hedgehog; The Mappined Life; Fate; The Bull; Morlvera; Shock Tactics; The Seven
-		Cream Jugs; The Occasional Garden; The Sheep; The Oversight; Hyacinth; The Image of the Lost
-		Soul; The Purple of the Balkan Kings; The Cupboard of the Yesterdays; For the Duration of
-		the War -->
-		<dc:source>https://archive.org/details/ofpeaceothertoys00sakirich</dc:source>
 		<!-- Beasts and Super Beasts -->
 		<!-- The She-Wolf; Laura; The Boar-Pig; The Brogue; The Hen; The Open Window;
 		The Treasure-Ship; The Cobweb; The Lull; The Unkindest Blow; The Romancers;
@@ -99,6 +91,15 @@
 		The Elk; Down Pens; The Name-Day; The Lumber Room; Fur; The Philanthropist and the Happy Cat;
 		On Approval -->
 		<dc:source>https://archive.org/details/beastssuperbeast00saki_0</dc:source>
+		<!-- Toys of Peace -->
+		<!-- Toys of Peace; Louise; Tea; Crispina Umberleigh; Wolves of Cernogratz; Louis;
+		The Guests; The Penance; The Phantom Luncheon; A Bread and Butter Miss; Bertie's Christmas
+		Eve; Forewarned; The Interlopers; Quail Seed; Canossa; The Thread; Excepting Mrs. Pentherby;
+		Mark; The Hedgehog; The Mappined Life; Fate; The Bull; Morlvera; Shock Tactics; The Seven
+		Cream Jugs; The Occasional Garden; The Sheep; The Oversight; Hyacinth; The Image of the Lost
+		Soul; The Purple of the Balkan Kings; The Cupboard of the Yesterdays; For the Duration of
+		the War -->
+		<dc:source>https://archive.org/details/ofpeaceothertoys00sakirich</dc:source>
 		<!-- The Square Egg -->
 		<!-- The Gala Programme; The Infernal Parliament; Clovis on the Alleged Romance of Business;
 		The Comments of Moung Ka -->
