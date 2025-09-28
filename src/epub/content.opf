@@ -184,12 +184,12 @@
 		<item href="text/esme.xhtml" id="esme.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/excepting-mrs-pentherby.xhtml" id="excepting-mrs-pentherby.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/fate.xhtml" id="fate.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/filboid-studge-the-story-of-a-mouse-that-helped.xhtml" id="filboid-studge-the-story-of-a-mouse-that-helped.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/filboid-studge.xhtml" id="filboid-studge.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/for-the-duration-of-the-war.xhtml" id="for-the-duration-of-the-war.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/forewarned.xhtml" id="forewarned.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/fur.xhtml" id="fur.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/gabriel-ernest.xhtml" id="gabriel-ernest.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/hermann-the-irascible-a-story-of-the-great-weep.xhtml" id="hermann-the-irascible-a-story-of-the-great-weep.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/hermann-the-irascible.xhtml" id="hermann-the-irascible.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/hyacinth.xhtml" id="hyacinth.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/judkin-of-the-parcels.xhtml" id="judkin-of-the-parcels.xhtml" media-type="application/xhtml+xml"/>
@@ -381,7 +381,7 @@
 		<!-- 1909-11-27, Westminster Gazette -->
 		<itemref idref="tobermory.xhtml"/>
 		<!-- 1909-12-24, Westminster Gazette -->
-		<itemref idref="hermann-the-irascible-a-story-of-the-great-weep.xhtml"/>
+		<itemref idref="hermann-the-irascible.xhtml"/>
 		<!-- 1910-03-12, Westminster Gazette -->
 		<itemref idref="wratislav.xhtml"/>
 		<!-- 1910-04-01, Westminster Gazette -->
@@ -403,7 +403,7 @@
 		<!-- 1910-11-30, Bystander -->
 		<itemref idref="ministers-of-grace.xhtml"/>
 		<!-- 1910-12-07, Bystander -->
-		<itemref idref="filboid-studge-the-story-of-a-mouse-that-helped.xhtml"/>
+		<itemref idref="filboid-studge.xhtml"/>
 		<!-- 1910-12-17, Westminster Gazette -->
 		<itemref idref="esme.xhtml"/>
 		<!-- 1911-02-18, Westminster Gazette -->
