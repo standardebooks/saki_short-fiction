@@ -103,6 +103,16 @@ abbr[epub|type~="z3998:stage-direction"]::after{
 	hyphens: none;
 	-epub-hyphens: none;
 }
+
+[epub|type~="epigraph"] cite{
+	font-style: normal;
+	font-variant: small-caps;
+	margin-top: 1em;
+}
+
+[epub|type~="epigraph"] cite i{
+	font-style: italic;
+}
 /* end all epigraphs */
 
 /* epigraphs in section headers */
