@@ -428,16 +428,16 @@
 		<itemref idref="the-peace-offering.xhtml"/>
 		<!-- 1911-07-08, Westminster Gazette -->
 		<itemref idref="the-recessional.xhtml"/>
+		<!-- 1911-08-23, Bystander -->
+		<itemref idref="the-infernal-parliament.xhtml"/>
+		<!-- 1911-08-26, Westminster Gazette -->
+		<itemref idref="the-talking-out-of-tarrington.xhtml"/>
 		<!-- 1911, original to Chronicles of Clovis -->
 		<itemref idref="the-music-on-the-hill.xhtml"/>
 		<itemref idref="the-remoulding-of-groby-lington.xhtml"/>
 		<itemref idref="the-secret-sin-of-septimus-brope.xhtml"/>
 		<itemref idref="the-story-of-st-vespaluus.xhtml"/>
 		<itemref idref="the-way-to-the-dairy.xhtml"/>
-		<!-- 1911-08-23, Bystander -->
-		<itemref idref="the-infernal-parliament.xhtml"/>
-		<!-- 1911-08-26, Westminster Gazette -->
-		<itemref idref="the-talking-out-of-tarrington.xhtml"/>
 		<!-- 1911-09-02, Morning Post -->
 		<itemref idref="the-disappearance-of-crispina-umberleigh.xhtml"/>
 		<!-- 1911-10-14, Westminster Gazette -->
@@ -506,10 +506,10 @@
 		<itemref idref="the-wolves-of-cernogratz.xhtml"/>
 		<!-- 1913-01-21, Morning Post -->
 		<itemref idref="the-dreamer.xhtml"/>
+		<!-- 1913-02-18, Morning Post -->
+		<itemref idref="the-quince-tree.xhtml"/>
 		<!-- 1913-02-25, Morning Post -->
 		<itemref idref="the-feast-of-nemesis.xhtml"/>
-		<!-- 1913-03-06, Morning Post -->
-		<itemref idref="the-brogue.xhtml"/>
 		<!-- 1913-03-11, Morning Post -->
 		<itemref idref="cousin-teresa.xhtml"/>
 		<!-- 1913-03-25, Morning Post -->
@@ -520,6 +520,8 @@
 		<itemref idref="the-stake.xhtml"/>
 		<!-- 1913-05-03, Westminster Gazette -->
 		<itemref idref="clovis-on-parental-responsibilities.xhtml"/>
+		<!-- 1913-06-03, Morning Post -->
+		<itemref idref="the-brogue.xhtml"/>
 		<!-- 1913-06-17, Morning Post -->
 		<itemref idref="the-almanac.xhtml"/>
 		<!-- 1913-07-09, Bystander -->
@@ -530,12 +532,24 @@
 		<itemref idref="the-hedgehog.xhtml"/>
 		<!-- 1913-09-02, Morning Post -->
 		<itemref idref="the-storyteller.xhtml"/>
+		<!-- 1913-09-16, Morning Post -->
+		<itemref idref="a-holiday-task.xhtml"/>
+		<!-- 1913-09-30, Morning Post -->
+		<itemref idref="fur.xhtml"/>
 		<!-- 1913-10-14, Morning Post -->
 		<itemref idref="the-lumber-room.xhtml"/>
 		<!-- 1913-10-15, Bystander -->
 		<itemref idref="a-sacrifice-to-necessity.xhtml"/>
 		<!-- 1913-11-17, Bystander -->
 		<itemref idref="the-elk.xhtml"/>
+		<!-- 1913-10-28, Morning Post -->
+		<itemref idref="a-defensive-diamond.xhtml"/>
+		<!-- 1913-11-12, Morning Post -->
+		<itemref idref="the-stalled-ox.xhtml"/>
+		<!-- 1913-11-18, Morning Post -->
+		<itemref idref="canossa.xhtml"/>
+		<!-- 1913-12-02, Morning Post -->
+		<itemref idref="the-name-day.xhtml"/>
 		<!-- 1913-12-03, Bystander -->
 		<itemref idref="a-shot-in-the-dark.xhtml"/>
 		<!-- 1913-12-16, Morning Post -->
@@ -574,16 +588,8 @@
 		<itemref idref="morlvera.xhtml"/>
 		<!-- 1914-07-28, Morning Post -->
 		<itemref idref="tea.xhtml"/>
-		<!-- 1914, Morning Post (from Beasts and Super-Beasts) -->
-		<itemref idref="a-defensive-diamond.xhtml"/>
-		<itemref idref="a-holiday-task.xhtml"/>
-		<itemref idref="fur.xhtml"/>
-		<itemref idref="the-name-day.xhtml"/>
-		<itemref idref="the-quince-tree.xhtml"/>
-		<itemref idref="the-stalled-ox.xhtml"/>
 		<!-- 1919 (book, but written prior to 1916), from Toys of Peace -->
 		<itemref idref="a-bread-and-butter-miss.xhtml"/>
-		<itemref idref="canossa.xhtml"/>
 		<itemref idref="clovis-on-the-alleged-romance-of-business.xhtml"/>
 		<itemref idref="forewarned.xhtml"/>
 		<!-- 1916-08-17, Morning Post -->
