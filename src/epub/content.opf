@@ -129,6 +129,11 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
+		<dc:contributor id="editor">Rothay Reynolds</dc:contributor>
+		<meta property="file-as" refines="#editor">Reynolds, Rothay</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#editor">https://en.wikipedia.org/wiki/Rothay_Reynolds</meta>
+		<meta property="se:url.authority.nacoaf" refines="#editor">http://id.loc.gov/authorities/names/n2017044726</meta>
+		<meta property="role" refines="#transcriber-1" scheme="marc:relators">ann</meta>
 		<dc:contributor id="transcriber-1">Jane Duff</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Duff, Jane</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
@@ -181,6 +186,7 @@
 		<item href="text/cross-currents.xhtml" id="cross-currents.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/down-pens.xhtml" id="down-pens.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/dusk.xhtml" id="dusk.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/endnotes.xhtml" id="endnotes.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/esme.xhtml" id="esme.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/excepting-mrs-pentherby.xhtml" id="excepting-mrs-pentherby.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/fate.xhtml" id="fate.xhtml" media-type="application/xhtml+xml"/>
@@ -582,6 +588,7 @@
 		<itemref idref="forewarned.xhtml"/>
 		<!-- 1916-08-17, Morning Post -->
 		<itemref idref="for-the-duration-of-the-war.xhtml"/>
+		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>
