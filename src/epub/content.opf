@@ -126,7 +126,7 @@
 		<dc:source>https://www.google.com/books/edition/The_Odd_Volume/g5YXAQAAIAAJ</dc:source>
 		<meta property="schema:wordCount">225998</meta>
 		<meta property="schema:educationalLevel">58.92</meta>
-		<meta property="schema:workExample" id="vcs-repository">schema:workExample</meta>
+		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
 		<meta property="rdf:type" refines="#vcs-repository">http://schema.org/SoftwareSourceCode</meta>
 		<link href="https://github.com/standardebooks/saki_short-fiction" refines="#vcs-repository" rel="schema:codeRepository"/>
 		<dc:creator id="author">Saki</dc:creator>
