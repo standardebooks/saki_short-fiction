@@ -124,7 +124,7 @@
 		<dc:source>https://archive.org/details/methuensannual0000evlu</dc:source>
 		<!-- Mrs. Pendercoet's Lost Identity (p. 20) -->
 		<dc:source>https://www.google.com/books/edition/The_Odd_Volume/g5YXAQAAIAAJ</dc:source>
-		<meta property="schema:wordCount">225998</meta>
+		<meta property="schema:wordCount">225999</meta>
 		<meta property="schema:educationalLevel">58.92</meta>
 		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
 		<meta property="rdf:type" refines="#vcs-repository">http://schema.org/SoftwareSourceCode</meta>
