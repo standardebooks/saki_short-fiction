@@ -140,14 +140,14 @@
 		<link href="https://en.wikipedia.org/wiki/August_Macke" refines="#artist" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n50040893.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="editor">Rothay Reynolds</dc:contributor>
-		<meta property="file-as" refines="#editor">Reynolds, Rothay</meta>
-		<link href="https://en.wikipedia.org/wiki/Rothay_Reynolds" refines="#editor" rel="schema:sameAs"/>
-		<link href="https://id.loc.gov/authorities/names/n2017044726.html" refines="#editor" rel="schema:sameAs"/>
-		<meta property="role" refines="#transcriber-1" scheme="marc:relators">ann</meta>
-		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
+		<dc:contributor id="annotator">Rothay Reynolds</dc:contributor>
+		<meta property="file-as" refines="#annotator">Reynolds, Rothay</meta>
+		<link href="https://en.wikipedia.org/wiki/Rothay_Reynolds" refines="#annotator" rel="schema:sameAs"/>
+		<link href="https://id.loc.gov/authorities/names/n2017044726.html" refines="#annotator" rel="schema:sameAs"/>
+		<meta property="role" refines="#annotator" scheme="marc:relators">ann</meta>
 		<dc:contributor id="transcriber-1">Jane Duff</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Duff, Jane</meta>
+		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-2">Al Haines</dc:contributor>
 		<meta property="file-as" refines="#transcriber-2">Haines, Al</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
